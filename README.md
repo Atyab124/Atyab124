@@ -6,8 +6,8 @@
 </h1>
 
 <!-- Typing animation -->
-<p align="Left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=AI+Solutions+Engineer;Real+Estate+Tech+Innovator;Machine+Learning+Engineer;Automation+Enthusiast" alt="Typing Animation" />
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=600&lines=AI+Solutions+Engineer;Real+Estate+Tech+Innovator;Machine+Learning+Engineer;Automation+Enthusiast" alt="Typing Animation" />
 </p>
 
 <!-- Profile Views -->  
