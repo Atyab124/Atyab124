@@ -1,12 +1,12 @@
 <!-- Banner -->
 <img src="https://raw.githubusercontent.com/Atyab124/Atyab124/main/assets/header.gif" width="100%" alt="Welcome Banner" />
 
-<h1 align="center">
+<h1 align="Left">
   Hi there, I'm Atyab 👋
 </h1>
 
 <!-- Typing animation -->
-<p align="center">
+<p align="Left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=AI+Solutions+Engineer;Real+Estate+Tech+Innovator;Machine+Learning+Engineer;Automation+Enthusiast" alt="Typing Animation" />
 </p>
 
