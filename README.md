@@ -7,7 +7,7 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=AI+Solutions+Engineer;Real+Estate+Tech+Innovator;Open+Source+Contributor;Machine+Learning+Engineer;Automation+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=AI+Solutions+Engineer;Real+Estate+Tech+Innovator;Machine+Learning+Engineer;Automation+Enthusiast" alt="Typing Animation" />
 </p>
 
 ---
