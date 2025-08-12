@@ -55,15 +55,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atyab124&theme=tokyonight" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atyab124&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atyab124&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
----
-
-## 🐍 Contribution Graph  
-
-![Snake animation](https://github.com/Atyab124/Atyab124/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
