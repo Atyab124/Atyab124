@@ -10,6 +10,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=AI+Solutions+Engineer;Real+Estate+Tech+Innovator;Machine+Learning+Engineer;Automation+Enthusiast" alt="Typing Animation" />
 </p>
 
+<!-- Profile Views -->  
+![Profile Views](https://komarev.com/ghpvc/?username=Atyab124&color=brightgreen&style=for-the-badge)
+
 ---
 
 ## 🧠 About Me  
