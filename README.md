@@ -11,7 +11,7 @@
 </p>
 
 <!-- Profile Views -->  
-![Profile Views](https://komarev.com/ghpvc/?username=Atyab124&color=brightgreen&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Atyab124&color=blue&style=for-the-badge)
 
 ---
 
