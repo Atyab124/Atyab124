@@ -52,17 +52,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atyab124&theme=tokyonight" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atyab124&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ## 📫 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/atyab-tosif-1b6224249/"><img src="https://img.shields.io/badge/LinkedIn-Atyab%20Tosif-blue?style=for-the-badge&logo=linkedin" /></a>
