@@ -17,7 +17,7 @@
 
 ## 🧠 About Me  
 - 🎓 **B.Tech in Computer Science (AI)** — GPA 9.3, SRM Institute of Science and Technology  
-- 💼 **AI Solutions Engineer at Heavenly Homes Real Estate**  
+- 💼 **AI Solutions Engineer at Fortes Investment**  
 - 🔬 **Ex-ML R&D Intern at OneOrigin** (Letter of Recommendation for excellence)  
 - 🌍 Based in **Dubai, UAE**  
 - 🌱 Currently exploring **LLM applications, automation, and scalable deployments**  
@@ -37,10 +37,10 @@
 
 ## ⚙️ Tech Stack  
 
-**Languages:** Python, SQL, C++, R, MATLAB  
-**Frameworks:** PyTorch, TensorFlow, LangChain, Flask, Django, HuggingFace, Crew AI  
-**Tools/Platforms:** Docker, Kubernetes, EC2, Git, MLFlow, Firebase, Spark, Hadoop  
-**AI/ML:** Transformers, Scikit-learn, XGBoost, OpenCV, Pandas, NumPy  
+**Languages:** Python, SQL  
+**Frameworks:** PyTorch, TensorFlow, LangChain, Flask, HuggingFace, Crew AI  
+**Tools/Platforms:** Docker, EC2, Git, Apollo, Instantly
+**AI/ML:** Transformers, Scikit-learn, OpenCV, Pandas  
 
 ---
 
