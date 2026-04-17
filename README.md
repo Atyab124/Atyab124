@@ -48,13 +48,17 @@
 
 ## 📊 GitHub Stats  
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atyab124&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atyab124&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Atyab124&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&hide=issues,contribs&card_width=450" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atyab124&layout=compact&theme=tokyonight&hide_border=true&card_width=340&langs_count=8" height="180" alt="Top Languages" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atyab124&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atyab124&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Atyab124&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
