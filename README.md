@@ -1,11 +1,11 @@
 <!-- Hero Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,20&height=260&section=header&text=Atyab%20Tosif&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Solutions%20Engineer%20%7C%20Dubai%20%F0%9F%87%A6%F0%9F%87%AA&descSize=20&descAlignY=55" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,20&height=260&section=header&text=Atyab%20Tosif&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Solutions%20Architect%20%7C%20Dubai%20%F0%9F%87%A6%F0%9F%87%AA&descSize=20&descAlignY=55" width="100%" alt="Header" />
 </div>
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=6DD5FA&center=true&vCenter=true&width=760&lines=AI+Solutions+Engineer;Enterprise-Grade+Product+Builder;Machine+Learning+Engineer;Real+Estate+Tech+Innovator;Automation+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=6DD5FA&center=true&vCenter=true&width=760&lines=AI+Solutions+Architect;Enterprise-Grade+Product+Builder;Machine+Learning+Engineer;Real+Estate+Tech+Innovator;Automation+Enthusiast" alt="Typing Animation" />
 </p>
 
 <!-- Profile Views -->
@@ -17,7 +17,7 @@
 
 ## 🧠 About Me  
 - 🎓 **B.Tech in Computer Science (AI)** — GPA 9.3, SRM Institute of Science and Technology  
-- 💼 **AI Solutions Engineer at Fortes Investment** — building LLM agents and **enterprise-grade products** (most recently, **TaskIt**)  
+- 💼 **AI Solutions Architect at Fortes Investment** — building LLM agents and **enterprise-grade products** (most recently, **TaskIt**)  
 - 🔬 **Ex-ML R&D Intern at OneOrigin** (Letter of Recommendation for excellence)  
 - 🌍 Based in **Dubai, UAE**  
 - 🌱 Currently exploring **LLM applications, automation, and scalable deployments**  
