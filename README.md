@@ -1,7 +1,7 @@
 <!-- Banner -->
-<img src="https://raw.githubusercontent.com/Atyab124/Atyab124/main/assets/header.gif" width="100%" alt="Welcome Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2980B9,100:6DD5FA&height=200&section=header&text=Hi%20there,%20I'm%20Atyab%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Welcome Banner" />
 
-<h1 align="Left">
+<h1 align="left">
   Hi there, I'm Atyab 👋
 </h1>
 
@@ -33,14 +33,29 @@
 | 💬 **Crew AI Multi-Agent WhatsApp Summarizer** *(Private)* | Converts real estate WhatsApp chats to structured property data. | Python, Crew AI, MongoDB |
 | ✍️ [**Full Page Handwriting OCR**](https://github.com/Atyab124/Full-page-docker-TrOCR-Completebuild-v2) | TrOCR + PaddleOCR hybrid for CUDA-based full-page OCR. | Python, PyTorch, Docker |
 
+➡️ *Check out my pinned repositories below for more.*
+
 ---
 
 ## ⚙️ Tech Stack  
 
 **Languages:** Python, SQL  
 **Frameworks:** PyTorch, TensorFlow, LangChain, Flask, HuggingFace, Crew AI  
-**Tools/Platforms:** Docker, EC2, Git, Apollo, Instantly
-**AI/ML:** Transformers, Scikit-learn, OpenCV, Pandas  
+**Tools/Platforms:** Docker, EC2, Git, Apollo, Instantly.  
+**AI/ML:** Transformers, Scikit-learn, OpenCV, Pandas.  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Atyab124&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atyab124&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atyab124&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+</p>
 
 ---
 
@@ -53,7 +68,7 @@
 ---
 
 ## 📫 Connect With Me  
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/atyab-tosif-1b6224249/"><img src="https://img.shields.io/badge/LinkedIn-Atyab%20Tosif-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:atyabbusiness@gmail.com"><img src="https://img.shields.io/badge/Email-atyabbusiness%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
   <a href="https://github.com/Atyab124"><img src="https://img.shields.io/badge/GitHub-Atyab124-lightgrey?style=for-the-badge&logo=github" /></a>
