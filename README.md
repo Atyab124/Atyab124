@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=6DD5FA&center=true&vCenter=true&width=700&lines=AI+Solutions+Engineer;Real+Estate+Tech+Innovator;Machine+Learning+Engineer;Automation+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=6DD5FA&center=true&vCenter=true&width=720&lines=AI+Solutions+Engineer;Full-Stack+Product+Builder;Machine+Learning+Engineer;Real+Estate+Tech+Innovator;Automation+Enthusiast" alt="Typing Animation" />
 </p>
 
 <!-- Profile Views -->
@@ -17,7 +17,7 @@
 
 ## 🧠 About Me  
 - 🎓 **B.Tech in Computer Science (AI)** — GPA 9.3, SRM Institute of Science and Technology  
-- 💼 **AI Solutions Engineer at Fortes Investment**  
+- 💼 **AI Solutions Engineer at Fortes Investment** — building LLM + full-stack products (most recently, **TaskIt**)  
 - 🔬 **Ex-ML R&D Intern at OneOrigin** (Letter of Recommendation for excellence)  
 - 🌍 Based in **Dubai, UAE**  
 - 🌱 Currently exploring **LLM applications, automation, and scalable deployments**  
@@ -25,17 +25,29 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,6,20&height=3" width="100%" alt="divider" />
 
 ## 📌 Now  
-- 🔭 Building production LLM agents for real estate operations  
+- 🚀 Shipping **[TaskIt](#-latest-build--taskit)** — a multi-tenant task + chat platform (Next.js 16, Supabase, Drizzle)
 - 🧩 Deep-diving into **Crew AI** and multi-agent orchestration patterns  
-- 🚀 Shipping automation pipelines at **Fortes Investment**  
+- 🏢 Building production LLM agents for real estate ops at **Fortes Investment**  
 - ✍️ Documenting what I learn — one commit at a time  
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,6,20&height=3" width="100%" alt="divider" />
+
+## 🌟 Latest Build — TaskIt  
+
+> **Multi-tenant task + chat platform for organizations.** Auth-hardened, realtime, optimistic-first.  
+
+- ⚙️ **Stack:** Next.js 16 App Router (`cacheComponents`), Vercel serverless, Supabase (Postgres + Auth + Realtime + Storage), Drizzle ORM, shadcn/ui, TanStack Table, Zustand, Zod, Sentry  
+- 🔐 **Auth proxy** validates JWTs via local JWKS (<1ms, 10s cache), strips inbound identity headers, writes trusted `x-auth-*` downstream — zero network calls in request path  
+- 🏢 **Tenancy & RLS:** org-scoped Postgres RLS as a safety net; business rules (visibility, privilege gates) enforced in TypeScript — `admin / director / hod / manager / member` role hierarchy  
+- 💬 **Realtime chat:** 1:1 + group, reactions, mentions, attachments (25 MB), unread badges, fulltext search — all over Supabase WebSockets with unique per-mount channels  
+- ⚡ **Optimistic everywhere:** `useOptimistic` for inline edits, temp-ID pattern for message sends, rollback + toast on error  
+- 🧱 **60+ migrations**, batch-CTE RPCs, compound-cursor pagination, cache-tag invalidation (no `router.refresh()` after mutations)  
 
 ## 🚀 Projects  
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| 🧩 **TaskIt** *(Private)* | Multi-tenant task + chat platform with realtime collaboration, role-based visibility, and optimistic UI. | Next.js 16, TypeScript, Supabase, Drizzle, shadcn/ui, Zustand |
 | 🎮 [**Miscrits Game Automation Bot**](https://github.com/Atyab124/Miscrits-Farming-Bot) | Automated gameplay with Python, OpenCV, OCR & fuzzy logic. | Python, OpenCV, PyAutoGUI |
 | 📚 [**Local RAG Assistant**](https://github.com/Atyab124/Semantic-RAG) | Private RAG pipeline with semantic chunking & vector search. | Python, Ollama, Supabase, n8n |
 | 💬 **Crew AI Multi-Agent WhatsApp Summarizer** *(Private)* | Converts real estate WhatsApp chats to structured property data. | Python, Crew AI, MongoDB |
@@ -47,6 +59,8 @@
   <a href="https://github.com/Atyab124/Miscrits-Farming-Bot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Atyab124&repo=Miscrits-Farming-Bot&theme=tokyonight&hide_border=true" alt="Miscrits Farming Bot" />
   </a>
+</p>
+<p align="center">
   <a href="https://github.com/Atyab124/Semantic-RAG">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Atyab124&repo=Semantic-RAG&theme=tokyonight&hide_border=true" alt="Semantic RAG" />
   </a>
@@ -61,10 +75,12 @@
 
 ## ⚙️ Tech Stack  
 
-**Languages:** Python, SQL  
-**Frameworks:** PyTorch, TensorFlow, LangChain, Flask, HuggingFace, Crew AI  
-**Tools/Platforms:** Docker, EC2, Git, Apollo, Instantly.  
-**AI/ML:** Transformers, Scikit-learn, OpenCV, Pandas.  
+**Languages:** Python, TypeScript, SQL.  
+**Full-Stack:** Next.js 16 (App Router), React, Node.js, Drizzle ORM, Zod, TanStack Table, shadcn/ui, Zustand.  
+**Cloud & Data:** Supabase (Postgres + Auth + Realtime + Storage), Vercel, Docker, AWS EC2, Sentry.  
+**AI / ML Frameworks:** PyTorch, TensorFlow, LangChain, HuggingFace, Crew AI, Flask.  
+**AI / ML Libraries:** Transformers, Scikit-learn, OpenCV, Pandas.  
+**Tools:** Git, Apollo, Instantly, n8n.  
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,6,20&height=3" width="100%" alt="divider" />
 
