@@ -49,7 +49,7 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atyab124&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true&hide=issues,contribs&card_width=450" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Atyab124&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&hide=issues,contribs&card_width=450" height="180" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atyab124&layout=compact&theme=tokyonight&hide_border=true&card_width=340&langs_count=8" height="180" alt="Top Languages" />
 </p>
 
