@@ -49,12 +49,15 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atyab124&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&hide=issues,contribs&card_width=450" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atyab124&layout=compact&theme=tokyonight&hide_border=true&card_width=340&langs_count=8" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Atyab124&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&hide=issues,contribs&card_width=800" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atyab124&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atyab124&theme=tokyonight&hide_border=true&card_width=800" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atyab124&layout=compact&theme=tokyonight&hide_border=true&card_width=800&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
